@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hello there! I'm Satrio 👋</h1>
+<h3 align="center">A Back-end Web Developer</h3>
+<br><br>
 
-<!--
-**dragonestrio/dragonestrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🖥️ Tech Stack :
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🕰️ Most of Programming Language I Used :
+<a href="https://github.com/dragonestrio">
+  <div align="center">
+  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonestrio&langs_count=8&hide_progress=true&hide_border=true&bg_color=fff&title_color=e96443&text_color=000" />
+  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonestrio&langs_count=8&layout=donut&hide_border=true&bg_color=fff&title_color=e96443&text_color=000" />
+  </div>
+</a>
+<br>
+
+# My stats
+<a href="https://github.com/dragonestrio">
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonestrio&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  </div>
+</a>
+<br>
