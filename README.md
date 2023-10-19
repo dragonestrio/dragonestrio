@@ -15,7 +15,7 @@
 </a>
 <br>
 
-# My stats
+# 📊 My stats
 <a href="https://github.com/dragonestrio">
   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonestrio&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
