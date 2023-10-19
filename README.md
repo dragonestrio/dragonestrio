@@ -9,8 +9,8 @@
 ## 🕰️ Most of Programming Language I Used :
 <a href="https://github.com/dragonestrio">
   <div align="center">
-  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonestrio&langs_count=8&hide_progress=true&hide_border=true&bg_color=fff&title_color=e96443&text_color=000" />
-  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonestrio&langs_count=8&layout=donut&hide_border=true&bg_color=fff&title_color=e96443&text_color=000" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonestrio&langs_count=8&hide_progress=true&hide_border=true&bg_color=fff&title_color=e96443&text_color=000" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonestrio&langs_count=8&layout=donut&hide_border=true&bg_color=fff&title_color=e96443&text_color=000" />
   </div>
 </a>
 <br>
