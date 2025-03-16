@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Satrio 👋</h1>
-<h3 align="center">A Back-end Web Developer</h3>
+<h3 align="center">A Back-end Developer</h3>
 <br><br>
 
 ## 🔠 Languages :
